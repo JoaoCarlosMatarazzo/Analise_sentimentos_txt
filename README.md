@@ -1,0 +1,1 @@
+# Analise_sentimentos_txt
